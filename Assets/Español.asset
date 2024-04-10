@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd19f514485876d458e6e17a821e3baf, type: 3}
   m_Name: "Espa\xF1ol"
   m_EditorClassIdentifier: 
-  texto1: 
-  texto2: 
-  texto3: 
-  texto4: 
+  texto1: Te he echado de menos
+  texto2: Todo este tiempo
+  texto3: He pensado en tu sonrisa
+  texto4: Y en tu forma de caminar

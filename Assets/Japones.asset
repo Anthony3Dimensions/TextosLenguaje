@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bd19f514485876d458e6e17a821e3baf, type: 3}
   m_Name: Japones
   m_EditorClassIdentifier: 
-  texto1: 
-  texto2: 
-  texto3: 
-  texto4: 
+  texto1: "\u79C1\u306F\u3042\u306A\u305F\u306B\u4F1A\u3048\u306A\u304F\u3066\u5BC2\u3057\u3044"
+  texto2: "\u4ECA\u307E\u3067"
+  texto3: "\u3042\u306A\u305F\u306E\u7B11\u9854\u306B\u3064\u3044\u3066\u8003\u3048\u307E\u3057\u305F"
+  texto4: "\u305D\u3057\u3066\u3042\u306A\u305F\u306E\u6B69\u304D\u65B9\u3067"
