@@ -2,15 +2,19 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Script : MonoBehaviour
+
+[CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/Traducciones")]
+public class Traducciones : ScriptableObject
+
 {
     // Start is called before the first frame update
-    [CreateAssetMenu(fileName = "Data", menuName = "ScriptableObjects/TranslationSO", order = 1)]
-
-    public class TranslationSO : ScriptableObject
-    {
-        public string language;
+    
+    
+    public string texto1;
+    public string texto2;
+    public string texto3;
+    public string texto4;
               
-    }
+    
 
 }
